@@ -1,7 +1,7 @@
 👋 Hi, I'm Thomas Dewey Schoenfelder
 
 I'm a recent Computer Science graduate and developer passionate about artificial intelligence, reinforcement learning, and algorithm optimization.
-I’ve built deep RL agents, robotics simulations, and computer vision tools — and I’m always learning.
+I’ve built deep RL agents, robotics simulations, and computer vision tools.
 
 Tech Stack
 - Languages: Python, Java, C/C++, MATLAB
